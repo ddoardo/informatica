@@ -1,7 +1,7 @@
 # informatica
 Primeira tarefa: Aprensetação
 ##
-ATIVDADE 2
+ATIVDADE 2 - Planilhas: fórmulas e dados abertos
 ##
 1. Quantos veículos estão em cada estado de conservação?
 FORMULAS UTILIZADA: =CONT.SE
