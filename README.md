@@ -3,7 +3,7 @@ Primeira tarefa: Aprensetação
 ##
 ATIVDADE 2 - Planilhas: fórmulas e dados abertos
 ##
-#  Conjunto de Frotas de Veículos UFMG
+#  Frotas de Veículos UFMG
 ##
 1. Quantos veículos estão em cada estado de conservação?
     FORMULAS UTILIZADA: =CONT.SE
