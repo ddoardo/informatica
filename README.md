@@ -85,7 +85,7 @@ Dashboard DADOS Abertos referente a atividade 2 - Fórmulas e dados abertos
 
 ![image](https://github.com/user-attachments/assets/2fb14d31-5ac6-4f9f-945c-27e876af15d0)
 
-🟢LINK: 
+🟢LINK: https://github.com/ddoardo/informatica/blob/main/METAatividadeEdu.pbix
 
 ##
 
