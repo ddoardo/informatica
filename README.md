@@ -1,11 +1,19 @@
+#    Início
 ## 📚 Cronograma das Aulas de Informática Aplicada à Logística
 Bem-vindo(a) ao repositório de Informática Aplicada à Logística! Aqui estão reunidos todos os trabalhos e atividades realizados ao longo da disciplina, incluindo links para materiais e projetos desenvolvidos.
 ##
-Sumário
+# Sumário
+
+* [Início](#Início)
+* [Sumário](#Sumário)
+* [Apresentação](#Apresentação)
+* [Conteúdo](#Atividades)
 ##
 ## Apresentação:
-Aluno Eduardo Pereira
+*    Aluno | Eduardo Pereira
 ##
+
+## Atividades
 #    Atividade 1 - Planilha Calculo de custos
 ![image](https://github.com/user-attachments/assets/6805f131-8357-4616-b745-5e0300e8c4c7)
 ##
