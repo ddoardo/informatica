@@ -77,8 +77,13 @@ Dashboard DADOS Abertos referente a atividade 2 - Fórmulas e dados abertos
 #    Tarefa 4: Power BI, dados abertos, fórmulas DAX, KPI e Github
 * visualizações de KPIs no Power BI que permitam avaliar se as metas estabelecidas no item anterior foram alcançadas. Essas visualizações devem apresentar de forma clara e objetiva os resultados comparativos entre os indicadores de desempenho e os objetivos estabelecidos, possibilitando uma análise rápida e eficaz do progresso em relação às metas.
 ##
+![image](https://github.com/user-attachments/assets/3da8ebc7-394e-480c-889f-2bf34e812a0b)
 
+![image](https://github.com/user-attachments/assets/78a0d206-3950-4e9a-9493-115e94d77f48)
 
+![image](https://github.com/user-attachments/assets/3c8998df-557b-4626-8004-a30e0700e9fb)
+
+![image](https://github.com/user-attachments/assets/2fb14d31-5ac6-4f9f-945c-27e876af15d0)
 
 🟢LINK: 
 
