@@ -36,6 +36,10 @@ Bem-vindo(a) ao repositório de Informática Aplicada à Logística! Aqui estão
 
 ![image](https://github.com/user-attachments/assets/071fee5a-1d17-4dbf-a9f7-e602566185e6)
 
+![image](https://github.com/user-attachments/assets/eab046d4-138e-45fe-a669-7c257a3a9a77)
+
+
+
 🟢LINK: https://github.com/ddoardo/informatica/blob/main/Atividade%202%20Informatica.xlsm
 ##
 #    Tarefa 1 - PowerBI
