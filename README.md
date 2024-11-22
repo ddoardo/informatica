@@ -88,7 +88,14 @@ Dashboard DADOS Abertos referente a atividade 2 - Fórmulas e dados abertos
 🟢LINK: https://github.com/ddoardo/informatica/blob/main/METAatividadeEdu.pbix
 
 ##
+#    Tarefa 5: Power APPs e IA generativa
+* Aplicativo demonstrativo criado Power Apps.
 
+
+https://github.com/user-attachments/assets/2c1bd9be-a27c-4315-a772-b3d0ab1d1e90
+
+
+🟢LINK: https://github.com/ddoardo/informatica/blob/main/2024-11-22-17-04-36_LACYhKIj.mkv
 
 
 
