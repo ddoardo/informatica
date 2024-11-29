@@ -98,9 +98,8 @@ https://github.com/user-attachments/assets/2c1bd9be-a27c-4315-a772-b3d0ab1d1e90
 🟢LINK: https://github.com/ddoardo/informatica/blob/main/2024-11-22-17-04-36_LACYhKIj.mkv
 
 ##
-#    Tarefa 5: Power APPs e IA generativa
-* Aplicativo demonstrativo criado Power Apps.
-
+#    Prova
+*Atividade 1: Gráfico Excel   
 ![image](https://github.com/user-attachments/assets/01c127a3-3607-4285-bf5e-e650bc62d1ed)
 
 ![image](https://github.com/user-attachments/assets/dcf33bc3-7fd6-4790-b8d3-d02626655e2a)
@@ -108,6 +107,14 @@ https://github.com/user-attachments/assets/2c1bd9be-a27c-4315-a772-b3d0ab1d1e90
 ![image](https://github.com/user-attachments/assets/34e5f3ff-a518-4e5f-983c-8294cd4d4d3c)
 
 
+##
+#    Prova
+*Atividade 2: DashBoard Conjunto de Dados
 
+![image](https://github.com/user-attachments/assets/243bfeb6-c84d-451e-9e02-cfb568676930)
 
+![image](https://github.com/user-attachments/assets/e544d1f6-db29-43ff-aa3a-3072888da159)
 
+![image](https://github.com/user-attachments/assets/51042ebc-f34c-45e0-a9a6-0091c54b17ae)
+
+![image](https://github.com/user-attachments/assets/1c56abc0-1701-4da1-9483-195051a812cf)
