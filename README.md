@@ -97,6 +97,17 @@ https://github.com/user-attachments/assets/2c1bd9be-a27c-4315-a772-b3d0ab1d1e90
 
 🟢LINK: https://github.com/ddoardo/informatica/blob/main/2024-11-22-17-04-36_LACYhKIj.mkv
 
+##
+#    Tarefa 5: Power APPs e IA generativa
+* Aplicativo demonstrativo criado Power Apps.
+
+![image](https://github.com/user-attachments/assets/01c127a3-3607-4285-bf5e-e650bc62d1ed)
+
+![image](https://github.com/user-attachments/assets/dcf33bc3-7fd6-4790-b8d3-d02626655e2a)
+
+![image](https://github.com/user-attachments/assets/34e5f3ff-a518-4e5f-983c-8294cd4d4d3c)
+
+
 
 
 
